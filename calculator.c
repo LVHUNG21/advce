@@ -3,7 +3,7 @@ int mew;
 int addition(int a, int b){
     return a+b;
 }
-int wowow;
+int wowow2;
 int main(){
 
 }
